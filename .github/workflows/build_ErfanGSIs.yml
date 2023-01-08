@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://96mqqbod00rne37j0bvi7vfobhcpjgrtgh1lk7fkm8l5kv2nmqlvu8nf.qc.dolfincdnx.cn:7843/xdispatch7396afc96ae1f539/bigota.d.miui.com/V13.1.22.9.28.DEV/miui_PSYCHE_V13.1.22.9.28.DEV_413a9c306d_12.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiN2M2MjRmZmFmNGU2NTgwM2FkMGQ5OWYyZTg3ODZjZDciLCJjYWNoZV9rZXkiOiJcL1YxMy4xLjIyLjkuMjguREVWXC9taXVpX1BTWUNIRV9WMTMuMS4yMi45LjI4LkRFVl80MTNhOWMzMDZkXzEyLjAuemlwIiwiZG5zX2hvc3QiOiJwZjAwMy52LmJzZ3NsYi5jbiIsImtleSI6ImY0YWU1N2JhNzhhZmFjMTY0YzAxMjBmMjg3ZTdmNGJjIiwidHMiOjE2NzMxODI2NzF9
+  ROM_URL: https://el1cjh5vp1qomdasjarv440dad3q0stdsb9iv2jl060a58tin1efvbkv.qc.dolfincdnx.cn:10443/xdispatch7396afc96ae1f539/bigota.d.miui.com/V13.1.22.9.28.DEV/miui_PSYCHE_V13.1.22.9.28.DEV_413a9c306d_12.0.zip?bsreqid=3a9e69815d739834e1167ac3a66595d3
   ROM_NAME: MIUI13-GSI-least
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
