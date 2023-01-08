@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://el1cjh5vp1qomdasjarv440dad3q0stdsb9iv2jl060a58tin1efvbkv.qc.dolfincdnx.cn:10443/xdispatch7396afc96ae1f539/bigota.d.miui.com/V13.1.22.9.28.DEV/miui_PSYCHE_V13.1.22.9.28.DEV_413a9c306d_12.0.zip?bsreqid=3a9e69815d739834e1167ac3a66595d3
-  ROM_NAME: MIUI13-GSI-least
+  ROM_NAME: MIUI13-GSI-least1
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
   ARTIFACT_NAME: ErfanGSIs-test 
